@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "173734695490",
+    "project_id": "portfolio-manager-88de4",
+    "storage_bucket": "portfolio-manager-88de4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173734695490:android:db376680540e26a3ed53db",
+        "android_client_info": {
+          "package_name": "com.saiteja.PM"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173734695490-90ru1954mephi6d28glnc2obuou9g0bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATM0TLLh5bFaSwVxagavBviYV7IsiFJzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173734695490-90ru1954mephi6d28glnc2obuou9g0bp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173734695490:android:c73a5fc3f59807c2ed53db",
+        "android_client_info": {
+          "package_name": "com.saiteja.loginuicolors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173734695490-90ru1954mephi6d28glnc2obuou9g0bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATM0TLLh5bFaSwVxagavBviYV7IsiFJzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173734695490-90ru1954mephi6d28glnc2obuou9g0bp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
