@@ -27,7 +27,7 @@ and achieve the same.
 
 ## Portfolio Manager apk file
 
-<a href="Documentation.pdf"><img src="screenshots/icon.png" width="60"></a>
+<a href="https://bit.ly/3vT4EVB"><img src="screenshots/apk.png" width="60"></a>
 
 
 
