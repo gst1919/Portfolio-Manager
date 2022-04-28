@@ -21,6 +21,10 @@ and achieve the same.
 <a href="https://www.linkedin.com/in/gteja/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
 <a href="https://instagram.com/gst_1919"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
 
+## Project Report
+
+<a href="https://twitter.com/guthysaiteja"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
+
 
 
 
