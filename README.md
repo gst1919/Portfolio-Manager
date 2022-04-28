@@ -23,7 +23,7 @@ and achieve the same.
 
 ## Project Report
 
-<a href="https://twitter.com/guthysaiteja"><img src="https://binged.it/3vPW3mD" width="60"></a>
+<a href="https://twitter.com/guthysaiteja"><img src="screenshots/icon.png" width="60"></a>
 
 
 
