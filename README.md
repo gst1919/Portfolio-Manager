@@ -23,7 +23,11 @@ and achieve the same.
 
 ## Project Report
 
-<a href="https://twitter.com/guthysaiteja"><img src="screenshots/icon.png" width="60"></a>
+<a href="Documentation.pdf"><img src="screenshots/icon.png" width="60"></a>
+
+## Portfolio Manager apk file
+
+<a href="Documentation.pdf"><img src="screenshots/icon.png" width="60"></a>
 
 
 
